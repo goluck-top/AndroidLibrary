@@ -1,4 +1,4 @@
-# android 其他自定义View相关的优秀第三方依赖包
+# android 架构相关的samples
 
-* MarkdownView Android库显示Markdown文本。
-源码地址：[MarkdownView](https://github.com/tiagohm/MarkdownView) 文档：[doc](https://github.com/tiagohm/MarkdownView/blob/master/README.md)
+* android-architecture 一组示例，用于讨论和展示Android应用程序的不同架构工具和模式。
+源码地址：[android-architecture](https://github.com/googlesamples/android-architecture) 文档：[doc](https://github.com/googlesamples/android-architecture/blob/master/README.md)
