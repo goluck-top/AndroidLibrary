@@ -4,4 +4,4 @@
 源码地址：[PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) 文档：[doc](https://github.com/rubensousa/PreviewSeekBar/blob/master/README.md)
 
 * VideoListPlayer 在ListView或recyclerview播放视频
-源码地址：[PreviewSeekBar](https://github.com/waynell/VideoListPlayer) 文档：[doc](https://github.com/waynell/VideoListPlayer/blob/master/README.md)
+源码地址：[VideoListPlayer](https://github.com/waynell/VideoListPlayer) 文档：[doc](https://github.com/waynell/VideoListPlayer/blob/master/README.md)
