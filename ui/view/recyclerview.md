@@ -1,5 +1,5 @@
-# android SeekBarÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android SeekBarç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* vlayout vlayoutÊÇÒ»¸örecyclerviewÇ¿´óµÄ²¼¾Ö¹ÜÀíÆ÷µÄÀ©Õ¹£¬ËüÌá¹©ÁËÒ»×é²¼¾Örecyclerview¡£Ê¹ËüÄÜ¹»´¦Àí¸´ÔÓµÄÇé¿öÊ±£¬Íø¸ñ£¬ÔÚÍ¬Ò»recyclerviewÁĞ±íºÍÆäËû²¼¾Ö¡£ 
-Ô´ÂëµØÖ·£º[vlayout](https://github.com/alibaba/vlayout) ÎÄµµ£º[doc](https://github.com/alibaba/vlayout/blob/master/README-ch.md)
+* vlayout vlayoutæ˜¯ä¸€ä¸ªrecyclerviewå¼ºå¤§çš„å¸ƒå±€ç®¡ç†å™¨çš„æ‰©å±•ï¼Œå®ƒæä¾›äº†ä¸€ç»„å¸ƒå±€recyclerviewã€‚ä½¿å®ƒèƒ½å¤Ÿå¤„ç†å¤æ‚çš„æƒ…å†µæ—¶ï¼Œç½‘æ ¼ï¼Œåœ¨åŒä¸€recyclerviewåˆ—è¡¨å’Œå…¶ä»–å¸ƒå±€ã€‚ 
+æºç åœ°å€ï¼š[vlayout](https://github.com/alibaba/vlayout) æ–‡æ¡£ï¼š[doc](https://github.com/alibaba/vlayout/blob/master/README-ch.md)
 

@@ -1,4 +1,4 @@
-# android Òıµ¼ÌáÊ¾ViewÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android å¼•å¯¼æç¤ºViewç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-*  FancyShowCaseView Ô²Ò»¸öÒ×ÓÚÊ¹ÓÃµÄ¿É¶¨ÖÆµÄÏÔÊ¾Çé¿öµÄ½Ç¶È½ÒÊ¾¶¯»­¡£
-Ô´ÂëµØÖ·£º[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView) ÎÄµµ£º[doc](https://github.com/faruktoptas/FancyShowCaseView/blob/master/READEME_CN.md)
+*  FancyShowCaseView åœ†ä¸€ä¸ªæ˜“äºä½¿ç”¨çš„å¯å®šåˆ¶çš„æ˜¾ç¤ºæƒ…å†µçš„è§’åº¦æ­ç¤ºåŠ¨ç”»ã€‚
+æºç åœ°å€ï¼š[FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView) æ–‡æ¡£ï¼š[doc](https://github.com/faruktoptas/FancyShowCaseView/blob/master/READEME_CN.md)

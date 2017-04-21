@@ -1,7 +1,7 @@
-# android LoadViewÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android LoadViewç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* spruce-android ÔÆÉ¼ÊÇÒ»¸öÇáÁ¿¼¶µÄ¶¯»­¿â£¬¿ÉÒÔ°ïÖú±àÅÅÆÁÄ»ÉÏµÄ¶¯»­¡£ 
-Ô´ÂëµØÖ·£º[spruce-android](https://github.com/willowtreeapps/spruce-android) ÎÄµµ£º[doc](https://github.com/willowtreeapps/spruce-android/blob/master/README.md)
+* spruce-android äº‘æ‰æ˜¯ä¸€ä¸ªè½»é‡çº§çš„åŠ¨ç”»åº“ï¼Œå¯ä»¥å¸®åŠ©ç¼–æ’å±å¹•ä¸Šçš„åŠ¨ç”»ã€‚ 
+æºç åœ°å€ï¼š[spruce-android](https://github.com/willowtreeapps/spruce-android) æ–‡æ¡£ï¼š[doc](https://github.com/willowtreeapps/spruce-android/blob/master/README.md)
 
 
 

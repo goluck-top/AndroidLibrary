@@ -1,7 +1,7 @@
-# android 动画相关的优秀第三方依赖包
+# android 鍔ㄧ敾鐩稿叧鐨勪紭绉�绗笁鏂逛緷璧栧寘
 
-* lottie-android 在Android和iOS上原生渲染After Effects动画
-源码地址：[lottie-android](https://github.com/airbnb/lottie-android) 文档：[doc](https://github.com/airbnb/lottie-android/blob/master/README.md)
+* lottie-android 鍦ˋndroid鍜宨OS涓婂師鐢熸覆鏌揂fter Effects鍔ㄧ敾
+婧愮爜鍦板潃锛歔lottie-android](https://github.com/airbnb/lottie-android) 鏂囨。锛歔doc](https://github.com/airbnb/lottie-android/blob/master/README.md)
 
-* Transitions-Everywhere 通过Android API的动画过渡。动画回迁到安卓4.0 +。API兼容Android 2.2 +
-源码地址：[lottie-android](https://github.com/andkulikov/Transitions-Everywhere) 文档：[doc](https://github.com/andkulikov/Transitions-Everywhere/blob/master/README.md)
+* Transitions-Everywhere 閫氳繃Android API鐨勫姩鐢昏繃娓°�傚姩鐢诲洖杩佸埌瀹夊崜4.0 +銆侫PI鍏煎Android 2.2 +
+婧愮爜鍦板潃锛歔lottie-android](https://github.com/andkulikov/Transitions-Everywhere) 鏂囨。锛歔doc](https://github.com/andkulikov/Transitions-Everywhere/blob/master/README.md)

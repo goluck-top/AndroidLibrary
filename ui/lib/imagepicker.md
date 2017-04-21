@@ -1,4 +1,4 @@
-# android Í¼Æ¬Ñ¡ÔñÆ÷
+# android å›¾ç‰‡é€‰æ‹©å™¨
 
-* AwesomeImagePicker ÒÔÃÀÀöµÄ½çÃæÌôÑ¡Í¼Æ¬/ gifs¡£Ö§³ÖÍ¼Ïñ»ògif£¬µ¥Í¼ÏñºÍ¶àÍ¼ÏñÑ¡Ôñ¡£
-Ô´ÂëµØÖ·£º[AwesomeImagePicker](https://github.com/myinnos/AwesomeImagePicker) ÎÄµµ£º[doc](https://github.com/myinnos/AwesomeImagePicker/blob/master/README.md)
+* AwesomeImagePicker ä»¥ç¾ä¸½çš„ç•Œé¢æŒ‘é€‰å›¾ç‰‡/ gifsã€‚æ”¯æŒå›¾åƒæˆ–gifï¼Œå•å›¾åƒå’Œå¤šå›¾åƒé€‰æ‹©ã€‚
+æºç åœ°å€ï¼š[AwesomeImagePicker](https://github.com/myinnos/AwesomeImagePicker) æ–‡æ¡£ï¼š[doc](https://github.com/myinnos/AwesomeImagePicker/blob/master/README.md)
