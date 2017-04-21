@@ -1,4 +1,4 @@
-# android SvgÍ¼Æ¬Ïà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android Svgå›¾ç‰‡ç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* SVG-Android ÊÇÒ»¿îÖ§³ÖÔÚAndroid 4.0+ÏµÍ³ÉÏÏÔÊ¾SVGÍ¼Æ¬µÄ¿ªÔ´¿â¡£ 
-Ô´ÂëµØÖ·£º[SVG-Android](https://github.com/MegatronKing/SVG-Android) ÎÄµµ£º[doc](https://github.com/MegatronKing/SVG-Android/blob/master/README.zh-cn.md)
+* SVG-Android æ˜¯ä¸€æ¬¾æ”¯æŒåœ¨Android 4.0+ç³»ç»Ÿä¸Šæ˜¾ç¤ºSVGå›¾ç‰‡çš„å¼€æºåº“ã€‚ 
+æºç åœ°å€ï¼š[SVG-Android](https://github.com/MegatronKing/SVG-Android) æ–‡æ¡£ï¼š[doc](https://github.com/MegatronKing/SVG-Android/blob/master/README.zh-cn.md)

@@ -1,4 +1,4 @@
-# android ¼Ü¹¹Ïà¹ØµÄsamples
+# android æ¶æ„ç›¸å…³çš„samples
 
-* android-architecture Ò»×éÊ¾Àı£¬ÓÃÓÚÌÖÂÛºÍÕ¹Ê¾AndroidÓ¦ÓÃ³ÌĞòµÄ²»Í¬¼Ü¹¹¹¤¾ßºÍÄ£Ê½¡£
-Ô´ÂëµØÖ·£º[android-architecture](https://github.com/googlesamples/android-architecture) ÎÄµµ£º[doc](https://github.com/googlesamples/android-architecture/blob/master/README.md)
+* android-architecture ä¸€ç»„ç¤ºä¾‹ï¼Œç”¨äºè®¨è®ºå’Œå±•ç¤ºAndroidåº”ç”¨ç¨‹åºçš„ä¸åŒæ¶æ„å·¥å…·å’Œæ¨¡å¼ã€‚
+æºç åœ°å€ï¼š[android-architecture](https://github.com/googlesamples/android-architecture) æ–‡æ¡£ï¼š[doc](https://github.com/googlesamples/android-architecture/blob/master/README.md)

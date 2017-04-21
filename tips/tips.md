@@ -1,4 +1,4 @@
-# android ¿ª·¢ÖĞµÄÒ»Ğ©¼¼ÇÉ
+# android å¼€å‘ä¸­çš„ä¸€äº›æŠ€å·§
 
-* android-tips-trick Android¿ª·¢µÄÌáÊ¾ºÍ¼¼ÇÉ
-Ô´ÂëµØÖ·£º[android-tips-trick](https://github.com/nisrulz/android-tips-tricks) ÎÄµµ£º[doc](https://github.com/nisrulz/android-tips-tricks/blob/develop/Readme.md)
+* android-tips-trick Androidå¼€å‘çš„æç¤ºå’ŒæŠ€å·§
+æºç åœ°å€ï¼š[android-tips-trick](https://github.com/nisrulz/android-tips-tricks) æ–‡æ¡£ï¼š[doc](https://github.com/nisrulz/android-tips-tricks/blob/develop/Readme.md)

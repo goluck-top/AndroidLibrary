@@ -1,5 +1,5 @@
-# android ÌáÉıÔöÇ¿ĞÔÄÜµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü »ò ¹¤¾ß
+# android æå‡å¢å¼ºæ€§èƒ½çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ… æˆ– å·¥å…·
 
-* condom Ò»¸ö³¬Çá³¬±¡µÄAndroid¹¤¾ß¿â£¬×èÖ¹Èı·½SDKÖĞ³£¼ûµÄÑÏÖØÓ°ÏìÓÃ»§ÌåÑéµÄ¡ºÁ´Ê½»½ĞÑ¡»ĞĞÎª¡££¨¶ÔÓ¦ÓÃ×ÔÉíµÄ¹¦ÄÜÎŞÓ°Ïì£©
-Ô´ÂëµØÖ·£º[condom](https://github.com/oasisfeng/condom) ÎÄµµ£º[doc](https://github.com/oasisfeng/condom/blob/master/README.md)
+* condom ä¸€ä¸ªè¶…è½»è¶…è–„çš„Androidå·¥å…·åº“ï¼Œé˜»æ­¢ä¸‰æ–¹SDKä¸­å¸¸è§çš„ä¸¥é‡å½±å“ç”¨æˆ·ä½“éªŒçš„ã€é“¾å¼å”¤é†’ã€è¡Œä¸ºã€‚ï¼ˆå¯¹åº”ç”¨è‡ªèº«çš„åŠŸèƒ½æ— å½±å“ï¼‰
+æºç åœ°å€ï¼š[condom](https://github.com/oasisfeng/condom) æ–‡æ¡£ï¼š[doc](https://github.com/oasisfeng/condom/blob/master/README.md)
 

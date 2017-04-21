@@ -1,4 +1,4 @@
-# android ÌáÉıÔöÇ¿ĞÔÄÜµÄÓÅĞã¹¤¾ß
+# android æå‡å¢å¼ºæ€§èƒ½çš„ä¼˜ç§€å·¥å…·
 
-* jsinspect ¼ì²â¸´ÖÆÕ³ÌùºÍ½á¹¹ÏàËÆµÄ´úÂë
-Ô´ÂëµØÖ·£º[jsinspect](https://github.com/danielstjules/jsinspect) ÎÄµµ£º[doc](https://github.com/danielstjules/jsinspect/blob/master/README.md)
+* jsinspect æ£€æµ‹å¤åˆ¶ç²˜è´´å’Œç»“æ„ç›¸ä¼¼çš„ä»£ç 
+æºç åœ°å€ï¼š[jsinspect](https://github.com/danielstjules/jsinspect) æ–‡æ¡£ï¼š[doc](https://github.com/danielstjules/jsinspect/blob/master/README.md)

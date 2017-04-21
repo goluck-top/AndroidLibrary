@@ -1,7 +1,7 @@
-# android Êı¾İ´«µİÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android æ•°æ®ä¼ é€’ç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* EventBus AndroidÓÅ»¯ÊÂ¼ş×ÜÏß£¬¼ò»¯ÁË»î¶¯¡¢ËéÆ¬¡¢Ïß³Ì¡¢·şÎñµÈÖ®¼äµÄÍ¨ĞÅ£¬´úÂëÉÙ¡¢ÖÊÁ¿ºÃ¡£  
-Ô´ÂëµØÖ·£º[EventBus](https://github.com/greenrobot/EventBus) ÎÄµµ£º[doc](http://greenrobot.org/eventbus/documentation/)
+* EventBus Androidä¼˜åŒ–äº‹ä»¶æ€»çº¿ï¼Œç®€åŒ–äº†æ´»åŠ¨ã€ç¢ç‰‡ã€çº¿ç¨‹ã€æœåŠ¡ç­‰ä¹‹é—´çš„é€šä¿¡ï¼Œä»£ç å°‘ã€è´¨é‡å¥½ã€‚  
+æºç åœ°å€ï¼š[EventBus](https://github.com/greenrobot/EventBus) æ–‡æ¡£ï¼š[doc](http://greenrobot.org/eventbus/documentation/)
 
-* RxBus Í¨¹ırxjavaÊÂ¼ş×ÜÏß¡£ÕâÊÇÒ»¸öÊÂ¼ş×ÜÏß£¬ËüÔÊĞíÄúµÄÓ¦ÓÃ³ÌĞòÓĞĞ§µØ½øĞĞÍ¨ĞÅ¡£
-Ô´ÂëµØÖ·£º[RxBus](https://github.com/AndroidKnife/RxBus) ÎÄµµ£º[doc](https://github.com/AndroidKnife/RxBus/blob/master/README.md)
+* RxBus é€šè¿‡rxjavaäº‹ä»¶æ€»çº¿ã€‚è¿™æ˜¯ä¸€ä¸ªäº‹ä»¶æ€»çº¿ï¼Œå®ƒå…è®¸æ‚¨çš„åº”ç”¨ç¨‹åºæœ‰æ•ˆåœ°è¿›è¡Œé€šä¿¡ã€‚
+æºç åœ°å€ï¼š[RxBus](https://github.com/AndroidKnife/RxBus) æ–‡æ¡£ï¼š[doc](https://github.com/AndroidKnife/RxBus/blob/master/README.md)

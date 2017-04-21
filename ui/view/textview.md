@@ -1,7 +1,7 @@
-# android TextViewÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android TextViewç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* html-builder Android TextView½¨Á¢ÓĞĞ§µÄHTML 
-Ô´ÂëµØÖ·£º[html-builder](https://github.com/jrummyapps/html-builder) ÎÄµµ£º[doc](https://github.com/jrummyapps/html-builder/blob/master/README.md)
+* html-builder Android TextViewå»ºç«‹æœ‰æ•ˆçš„HTML 
+æºç åœ°å€ï¼š[html-builder](https://github.com/jrummyapps/html-builder) æ–‡æ¡£ï¼š[doc](https://github.com/jrummyapps/html-builder/blob/master/README.md)
 
-* HtmlCompat AndroidµÄHTMLÀà¼æÈİ¿â¡£
-Ô´ÂëµØÖ·£º[HtmlCompat](https://github.com/Pixplicity/HtmlCompat) ÎÄµµ£º[doc](https://github.com/Pixplicity/HtmlCompat/blob/master/README.md)
+* HtmlCompat Androidçš„HTMLç±»å…¼å®¹åº“ã€‚
+æºç åœ°å€ï¼š[HtmlCompat](https://github.com/Pixplicity/HtmlCompat) æ–‡æ¡£ï¼š[doc](https://github.com/Pixplicity/HtmlCompat/blob/master/README.md)
