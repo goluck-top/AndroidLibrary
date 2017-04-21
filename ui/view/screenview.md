@@ -1,5 +1,5 @@
-# android ËøÆÁ½çÃæÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android é”å±ç•Œé¢ç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* PatternLockView Ò»¸öÒ×ÓÚÊ¹ÓÃµÄ£¬¿É¶¨ÖÆµÄ£¬²ÄÁÏÉè¼ÆÍ¶ËßÄ£Ê½Ëø¶¨²é¿´Android¡£ 
-Ô´ÂëµØÖ·£º[PatternLockView](https://github.com/aritraroy/PatternLockView/blob/master/README.md)
+* PatternLockView ä¸€ä¸ªæ˜“äºä½¿ç”¨çš„ï¼Œå¯å®šåˆ¶çš„ï¼Œææ–™è®¾è®¡æŠ•è¯‰æ¨¡å¼é”å®šæŸ¥çœ‹Androidã€‚ 
+æºç åœ°å€ï¼š[PatternLockView](https://github.com/aritraroy/PatternLockView/blob/master/README.md)
 

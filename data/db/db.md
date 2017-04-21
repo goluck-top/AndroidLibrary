@@ -1,13 +1,13 @@
-# android Êı¾İ¿âÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android æ•°æ®åº“ç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* LitePal Android¿â£¬Ê¹¿ª·¢ÕßÊ¹ÓÃSQLiteÊı¾İ¿â·Ç³£ÈİÒ×.  
-Ô´ÂëµØÖ·£º[LitePal](https://github.com/LitePalFramework/LitePal) ÎÄµµ£º[doc](https://github.com/LitePalFramework/LitePal/blob/master/README.md)
+* LitePal Androidåº“ï¼Œä½¿å¼€å‘è€…ä½¿ç”¨SQLiteæ•°æ®åº“éå¸¸å®¹æ˜“.  
+æºç åœ°å€ï¼š[LitePal](https://github.com/LitePalFramework/LitePal) æ–‡æ¡£ï¼š[doc](https://github.com/LitePalFramework/LitePal/blob/master/README.md)
 
-* greenDAO greendaoÊÇÇá¿ìµÄAndroid£¬¶ÔÏóÓ³Éäµ½SQLiteÊı¾İ¿âORM½â¾ö·½°¸  
-Ô´ÂëµØÖ·£º[greenDAO](https://github.com/greenrobot/greenDAO) ÎÄµµ£º[doc](http://greenrobot.org/greendao/documentation/)
+* greenDAO greendaoæ˜¯è½»å¿«çš„Androidï¼Œå¯¹è±¡æ˜ å°„åˆ°SQLiteæ•°æ®åº“ORMè§£å†³æ–¹æ¡ˆ  
+æºç åœ°å€ï¼š[greenDAO](https://github.com/greenrobot/greenDAO) æ–‡æ¡£ï¼š[doc](http://greenrobot.org/greendao/documentation/)
 
-* ActiveAndroid »î¶¯¼ÇÂ¼·½Ê½ÎªAndroid SQLite³Ö¾Ã  
-Ô´ÂëµØÖ·£º[ActiveAndroid](https://github.com/pardom/ActiveAndroid) ÎÄµµ£º[doc](http://www.activeandroid.com/)
+* ActiveAndroid æ´»åŠ¨è®°å½•æ–¹å¼ä¸ºAndroid SQLiteæŒä¹…  
+æºç åœ°å€ï¼š[ActiveAndroid](https://github.com/pardom/ActiveAndroid) æ–‡æ¡£ï¼š[doc](http://www.activeandroid.com/)
 
-* sugar ÓëAndroidÊı¾İ¿â¹¤×÷³öÆæµÄ¼òµ¥·½·¨
-Ô´ÂëµØÖ·£º[sugar](https://github.com/satyan/sugar) ÎÄµµ£º[doc](http://satyan.github.io/sugar/)
+* sugar ä¸Androidæ•°æ®åº“å·¥ä½œå‡ºå¥‡çš„ç®€å•æ–¹æ³•
+æºç åœ°å€ï¼š[sugar](https://github.com/satyan/sugar) æ–‡æ¡£ï¼š[doc](http://satyan.github.io/sugar/)

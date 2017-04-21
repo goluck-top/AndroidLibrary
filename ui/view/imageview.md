@@ -1,4 +1,4 @@
-# android ImageViewÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android ImageViewç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-*  ShadowImageView ¿ÉÒÔ¸ù¾İÍ¼Æ¬±äÑÕÉ«£¬¸ü¼ÓÏ¸ÄåµÄÒõÓ°Ğ§¹û
-Ô´ÂëµØÖ·£º[ShadowImageView](https://github.com/yingLanNull/ShadowImageView) ÎÄµµ£º[doc](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
+*  ShadowImageView å¯ä»¥æ ¹æ®å›¾ç‰‡å˜é¢œè‰²ï¼Œæ›´åŠ ç»†è…»çš„é˜´å½±æ•ˆæœ
+æºç åœ°å€ï¼š[ShadowImageView](https://github.com/yingLanNull/ShadowImageView) æ–‡æ¡£ï¼š[doc](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)

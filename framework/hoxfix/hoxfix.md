@@ -1,4 +1,4 @@
-# android ÈÈĞŞ¸´¿ò¼Ü
+# android çƒ­ä¿®å¤æ¡†æ¶
 
-* Robust ĞÂÒ»´úÈÈ¸üĞÂÏµÍ³Robust£¬¶ÔAndroid°æ±¾ÎŞ²î±ğ¼æÈİ¡£ÎŞĞè·¢°æ¾Í¿ÉÒÔ×öµ½ËæÊ±ĞŞ¸ÄÏßÉÏbug£¬¿ìËÙ¶ÔÖØ´óÏßÉÏÎÊÌâ×÷³ö·´Ó¦£¬²¹¶¡ĞŞ²¹³É¹¦ÂÊ¸ß´ï99.9%¡£  
-Ô´ÂëµØÖ·£º[Robust](https://github.com/Meituan-Dianping/Robust) ÎÄµµ£º[doc](https://github.com/Meituan-Dianping/Robust/blob/master/README-zh.md)
+* Robust æ–°ä¸€ä»£çƒ­æ›´æ–°ç³»ç»ŸRobustï¼Œå¯¹Androidç‰ˆæœ¬æ— å·®åˆ«å…¼å®¹ã€‚æ— éœ€å‘ç‰ˆå°±å¯ä»¥åšåˆ°éšæ—¶ä¿®æ”¹çº¿ä¸Šbugï¼Œå¿«é€Ÿå¯¹é‡å¤§çº¿ä¸Šé—®é¢˜ä½œå‡ºååº”ï¼Œè¡¥ä¸ä¿®è¡¥æˆåŠŸç‡é«˜è¾¾99.9%ã€‚  
+æºç åœ°å€ï¼š[Robust](https://github.com/Meituan-Dianping/Robust) æ–‡æ¡£ï¼š[doc](https://github.com/Meituan-Dianping/Robust/blob/master/README-zh.md)

@@ -1,5 +1,5 @@
-# android PasscodeViewÃÜÂëÑéÖ¤µÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android PasscodeViewå¯†ç éªŒè¯çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* PasscodeView PasscodeViewÊÇÒ»¸öAndroid¿â£¬¿ÉÒÔÊ¹ÓÃPINÂë»òÊ¹ÓÃÖ¸ÎÆÉ¨ÃèÆ÷ÇáËÉ°²È«µØÑéÖ¤ÓÃ»§Éí·İ¡£ 
-Ô´ÂëµØÖ·£º[PasscodeView](https://github.com/kevalpatel2106/PasscodeView) ÎÄµµ£º[doc](https://github.com/kevalpatel2106/PasscodeView/blob/master/README.md)
+* PasscodeView PasscodeViewæ˜¯ä¸€ä¸ªAndroidåº“ï¼Œå¯ä»¥ä½¿ç”¨PINç æˆ–ä½¿ç”¨æŒ‡çº¹æ‰«æå™¨è½»æ¾å®‰å…¨åœ°éªŒè¯ç”¨æˆ·èº«ä»½ã€‚ 
+æºç åœ°å€ï¼š[PasscodeView](https://github.com/kevalpatel2106/PasscodeView) æ–‡æ¡£ï¼š[doc](https://github.com/kevalpatel2106/PasscodeView/blob/master/README.md)
 

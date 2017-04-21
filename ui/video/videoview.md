@@ -1,7 +1,7 @@
-# android ÓëÊÓÆµ²¥·ÅÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android ä¸è§†é¢‘æ’­æ”¾ç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* PreviewSeekBar ÊÊºÏÓÃÓÚÏÔÊ¾Ô¤ÀÀÊÇSeekBar¡£ÈçÔÚ¹È¸è²¥·ÅµÄµçÓ°¡£
-Ô´ÂëµØÖ·£º[PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) ÎÄµµ£º[doc](https://github.com/rubensousa/PreviewSeekBar/blob/master/README.md)
+* PreviewSeekBar é€‚åˆç”¨äºæ˜¾ç¤ºé¢„è§ˆæ˜¯SeekBarã€‚å¦‚åœ¨è°·æ­Œæ’­æ”¾çš„ç”µå½±ã€‚
+æºç åœ°å€ï¼š[PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) æ–‡æ¡£ï¼š[doc](https://github.com/rubensousa/PreviewSeekBar/blob/master/README.md)
 
-* VideoListPlayer ÔÚListView»òrecyclerview²¥·ÅÊÓÆµ
-Ô´ÂëµØÖ·£º[PreviewSeekBar](https://github.com/waynell/VideoListPlayer) ÎÄµµ£º[doc](https://github.com/waynell/VideoListPlayer/blob/master/README.md)
+* VideoListPlayer åœ¨ListViewæˆ–recyclerviewæ’­æ”¾è§†é¢‘
+æºç åœ°å€ï¼š[PreviewSeekBar](https://github.com/waynell/VideoListPlayer) æ–‡æ¡£ï¼š[doc](https://github.com/waynell/VideoListPlayer/blob/master/README.md)

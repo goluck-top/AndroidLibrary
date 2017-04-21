@@ -1,13 +1,13 @@
-# android IconÍ¼±êÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android Iconå›¾æ ‡ç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* IonIconView »ùÓÚËùÌá¹©µÄionicons.comÕæ°ôÍ¼±êioniconview  
-Ô´ÂëµØÖ·£º[IonIconView](https://github.com/MarsVard/IonIconView) ÎÄµµ£º[doc](https://github.com/MarsVard/IonIconView/blob/master/README.md)
+* IonIconView åŸºäºæ‰€æä¾›çš„ionicons.comçœŸæ£’å›¾æ ‡ioniconview  
+æºç åœ°å€ï¼š[IonIconView](https://github.com/MarsVard/IonIconView) æ–‡æ¡£ï¼š[doc](https://github.com/MarsVard/IonIconView/blob/master/README.md)
 
-* material-icon-lib º¬ÓĞ³¬¹ı1500Ê¸Á¿ËØ²ÄÍ¼±ê¿ÉÒÔ·½±ãÊ¹ÓÃÖĞ»ò×÷ÎªÒ»¸ö¶ÀÁ¢µÄÊÓ½ÇÏÂµÄÍ¼Êé¹İ¡£  
-Ô´ÂëµØÖ·£º[material-icon-lib](https://github.com/code-mc/material-icon-lib) ÎÄµµ£º[doc](https://github.com/code-mc/material-icon-lib/blob/master/README.md)
+* material-icon-lib å«æœ‰è¶…è¿‡1500çŸ¢é‡ç´ æå›¾æ ‡å¯ä»¥æ–¹ä¾¿ä½¿ç”¨ä¸­æˆ–ä½œä¸ºä¸€ä¸ªç‹¬ç«‹çš„è§†è§’ä¸‹çš„å›¾ä¹¦é¦†ã€‚  
+æºç åœ°å€ï¼š[material-icon-lib](https://github.com/code-mc/material-icon-lib) æ–‡æ¡£ï¼š[doc](https://github.com/code-mc/material-icon-lib/blob/master/README.md)
 
-* Android-Iconics Android¿µÅµ-Ê¹ÓÃÈÎºÎÍ¼±ê×ÖÌå£¬»òÊ¸Á¿£¨.svg£©ÔÚÄãµÄÓ¦ÓÃ³ÌĞòÖĞ¡£  
-Ô´ÂëµØÖ·£º[Android-Iconics](https://github.com/mikepenz/Android-Iconics) ÎÄµµ£º[doc](http://mikepenz.github.io/Android-Iconics/)
+* Android-Iconics Androidåº·è¯º-ä½¿ç”¨ä»»ä½•å›¾æ ‡å­—ä½“ï¼Œæˆ–çŸ¢é‡ï¼ˆ.svgï¼‰åœ¨ä½ çš„åº”ç”¨ç¨‹åºä¸­ã€‚  
+æºç åœ°å€ï¼š[Android-Iconics](https://github.com/mikepenz/Android-Iconics) æ–‡æ¡£ï¼š[doc](http://mikepenz.github.io/Android-Iconics/)
 
-* android-iconify ¶à¸öÍ¼±ê¹©Ó¦ÉÌÈçFontAwesome¡¢EntypoµÄAndroidÕûºÏ¡£  
-Ô´ÂëµØÖ·£º[Android-Iconics](https://github.com/mikepenz/Android-Iconics) ÎÄµµ£º[doc](http://joanzapata.com/android-iconify/)
+* android-iconify å¤šä¸ªå›¾æ ‡ä¾›åº”å•†å¦‚FontAwesomeã€Entypoçš„Androidæ•´åˆã€‚  
+æºç åœ°å€ï¼š[Android-Iconics](https://github.com/mikepenz/Android-Iconics) æ–‡æ¡£ï¼š[doc](http://joanzapata.com/android-iconify/)

@@ -1,4 +1,4 @@
-# android ÆäËû×Ô¶¨ÒåViewÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android å…¶ä»–è‡ªå®šä¹‰Viewç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* MarkdownView Android¿âÏÔÊ¾MarkdownÎÄ±¾¡£
-Ô´ÂëµØÖ·£º[MarkdownView](https://github.com/tiagohm/MarkdownView) ÎÄµµ£º[doc](https://github.com/tiagohm/MarkdownView/blob/master/README.md)
+* MarkdownView Androidåº“æ˜¾ç¤ºMarkdownæ–‡æœ¬ã€‚
+æºç åœ°å€ï¼š[MarkdownView](https://github.com/tiagohm/MarkdownView) æ–‡æ¡£ï¼š[doc](https://github.com/tiagohm/MarkdownView/blob/master/README.md)
