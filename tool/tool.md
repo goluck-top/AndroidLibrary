@@ -9,3 +9,5 @@
 * Android-Debug-Database 用于调试android数据库和共享首选项的库
 源码地址：[Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) 文档：[doc](https://github.com/amitshekhariitbhu/Android-Debug-Database/blob/master/README.md)
 
+* facebook/buck 鼓励通过各种平台和语言创建小型，可重复使用的模块的快速构建系统。 
+源码地址：[facebook/buck](https://github.com/facebook/buck) 文档：[doc](https://github.com/facebook/buck/blob/master/README.md)
