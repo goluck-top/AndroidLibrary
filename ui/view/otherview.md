@@ -5,3 +5,6 @@
 
 * FallingView 雪花飘落效果，可以实现自定义
 源码地址：[FallingView](https://github.com/DingMouRen/FallingView) 文档：[doc](https://github.com/DingMouRen/FallingView/blob/master/README.md)
+
+* mavonEditor  基于vue的markdown编辑器，支持所见即所得编辑模式、阅读模式、导航目录等
+源码地址：[mavonEditor](https://github.com/hinesboy/mavonEditor) 文档：[doc](https://github.com/hinesboy/mavonEditor/blob/master/README.md)
