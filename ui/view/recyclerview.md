@@ -5,3 +5,6 @@
 
 * PlaceHolderView 一个包装器的android recyclelerview并包含堆叠视图  
 源码地址：[PlaceHolderView](https://github.com/janishar/PlaceHolderView) 文档：[doc](https://github.com/janishar/PlaceHolderView/blob/master/README.md)
+
+* RecyclerViewSnap SnapHelper封装，监听recyclerview滑动
+源码地址：[RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap) 文档：[doc](https://github.com/rubensousa/RecyclerViewSnap/blob/master/README.md)
