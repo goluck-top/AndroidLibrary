@@ -5,3 +5,7 @@
 
 * Transitions-Everywhere 通过Android API的动画过渡。动画回迁到安卓4.0 +。API兼容Android 2.2 +
 源码地址：[lottie-android](https://github.com/andkulikov/Transitions-Everywhere) 文档：[doc](https://github.com/andkulikov/Transitions-Everywhere/blob/master/README.md)
+
+* AndroidCustomView   圆圈泡泡上升
+源码地址：[AndroidCustomView](https://github.com/lygttpod/AndroidCustomView) 文档：[doc](https://github.com/lygttpod/AndroidCustomView/blob/master/README.md)
+
