@@ -5,3 +5,7 @@
 
 * Colorful 运行时主题库  
 源码地址：[Android-skin-support](https://github.com/ximsfei/Android-skin-support) 文档：[doc](https://github.com/ximsfei/Android-skin-support/blob/master/README.md)
+
+* aesthetic 一种快速便捷的即插即用动态主题引擎。由Rx支持，适用于Android应用。
+源码地址：[aesthetic](https://github.com/afollestad/aesthetic) 文档：[doc](https://github.com/afollestad/aesthetic/blob/master/README.md)
+
