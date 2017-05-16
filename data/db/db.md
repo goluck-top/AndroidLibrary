@@ -11,3 +11,8 @@
 
 * sugar 与Android数据库工作出奇的简单方法
 源码地址：[sugar](https://github.com/satyan/sugar) 文档：[doc](http://satyan.github.io/sugar/)
+
+* RxAndroidOrm 一个反应简单而流畅的Android ORM，怎么能更容易？rxjava2准备
+源码地址：[RxAndroidOrm](https://github.com/florent37/RxAndroidOrm) 文档：[doc](https://github.com/florent37/RxAndroidOrm)
+
+
