@@ -2,3 +2,8 @@
 
 *  ShadowImageView 可以根据图片变颜色，更加细腻的阴影效果
 源码地址：[ShadowImageView](https://github.com/yingLanNull/ShadowImageView) 文档：[doc](https://github.com/yingLanNull/ShadowImageView/blob/master/READEME_CN.md)
+
+*   cropiwa 可配置的自定义作物部件 截图
+源码地址：[cropiwa](https://github.com/steelkiwi/cropiwa) 文档：[doc](https://github.com/steelkiwi/cropiwa/blob/master/READEME.md)
+
+
