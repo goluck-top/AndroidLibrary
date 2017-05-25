@@ -8,3 +8,8 @@
 
 * RecyclerViewSnap SnapHelper封装，监听recyclerview滑动
 源码地址：[RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap) 文档：[doc](https://github.com/rubensousa/RecyclerViewSnap/blob/master/README.md)
+
+* SlimAdapter recyclerview适配器的新写法
+源码地址：[SlimAdapter](https://github.com/MEiDIK/SlimAdapter) 文档：[doc](https://github.com/MEiDIK/SlimAdapter/blob/master/README.md)
+
+
