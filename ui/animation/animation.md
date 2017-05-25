@@ -9,3 +9,16 @@
 * AndroidCustomView   圆圈泡泡上升
 源码地址：[AndroidCustomView](https://github.com/lygttpod/AndroidCustomView) 文档：[doc](https://github.com/lygttpod/AndroidCustomView/blob/master/README.md)
 
+* android-magic-surface-view  这是一个 android 动画特效库， 可以实现各种炫酷动画。
+源码地址：[android-magic-surface-view](https://github.com/gplibs/android-magic-surface-view) 文档：[doc](https://github.com/gplibs/android-magic-surface-view/blob/master/README.md)
+
+* spruce-android  云杉动画
+源码地址：[spruce-android ](https://github.com/willowtreeapps/spruce-android) 文档：[doc](https://github.com/willowtreeapps/spruce-android/blob/master/README.md)
+
+* Grav  基于点的可配置动画
+源码地址：[Grav](https://github.com/glomadrian/Grav) 文档：[doc](https://github.com/glomadrian/Grav/blob/master/README.md)
+
+
+
+
+
