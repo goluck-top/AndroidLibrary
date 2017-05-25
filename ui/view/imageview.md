@@ -6,4 +6,8 @@
 *   cropiwa 可配置的自定义作物部件 截图
 源码地址：[cropiwa](https://github.com/steelkiwi/cropiwa) 文档：[doc](https://github.com/steelkiwi/cropiwa/blob/master/READEME.md)
 
+* PaletteImageView 为图片添加阴影，阴影颜色来源于图片的主色
+源码地址：[PaletteImageView](https://github.com/DingMouRen/PaletteImageView) 文档：[doc](https://github.com/DingMouRen/PaletteImageView/blob/master/READEME_CN.md)
+
+
 
