@@ -8,3 +8,6 @@
 
 * ParticleTextView 一个用粒子动画显示文字的 Android 自定义 View
 源码地址：[ParticleTextView](https://github.com/Yasic/ParticleTextView) 文档：[doc](https://github.com/Yasic/ParticleTextView/blob/master/README.md)
+
+* RotatingText 周期性文本更新库 上下滚动View
+源码地址：[RotatingText](https://github.com/sdsmdg/RotatingText) 文档：[doc](https://github.com/sdsmdg/RotatingText/blob/master/README.md)

@@ -3,6 +3,9 @@
 * MarkdownView Android库显示Markdown文本。
 源码地址：[MarkdownView](https://github.com/tiagohm/MarkdownView) 文档：[doc](https://github.com/tiagohm/MarkdownView/blob/master/README.md)
 
+* Android-YRichEditor Android库显示Markdown文本的编辑器。
+源码地址：[Android-YRichEditor](https://github.com/YeDaxia/Android-YRichEditor) 文档：[doc](https://github.com/YeDaxia/Android-YRichEditor/blob/master/README.md)
+
 * FallingView 雪花飘落效果，可以实现自定义
 源码地址：[FallingView](https://github.com/DingMouRen/FallingView) 文档：[doc](https://github.com/DingMouRen/FallingView/blob/master/README.md)
 
