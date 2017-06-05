@@ -10,9 +10,6 @@
 * AppMethodOrder 该库允许您跟踪所有函数调用顺序。
 源码地址：[AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) 文档：[doc](https://github.com/zjw-swun/AppMethodOrder/blob/master/README.md)
 
-* AppMethodOrder 该库允许您跟踪所有函数调用顺序。
-源码地址：[AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) 文档：[doc](https://github.com/zjw-swun/AppMethodOrder/blob/master/README.md)
- 
 * BlockCanaryEx 记录主线程中执行的所有方法和它们的执行时间 当应用程序阻塞时，使性能瓶颈检测容易
 源码地址：[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) 文档：[doc](https://github.com/seiginonakama/BlockCanaryEx/blob/master/README_ZH.md)
 
