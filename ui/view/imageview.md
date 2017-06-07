@@ -9,5 +9,7 @@
 * PaletteImageView 为图片添加阴影，阴影颜色来源于图片的主色
 源码地址：[PaletteImageView](https://github.com/DingMouRen/PaletteImageView) 文档：[doc](https://github.com/DingMouRen/PaletteImageView/blob/master/READEME_CN.md)
 
+* MaterialShadows 支持凸材质阴影的库
+源码地址：[MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) 文档：[doc](https://github.com/harjot-oberai/MaterialShadows/blob/master/READEME_CN.md)
 
 

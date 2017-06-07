@@ -18,6 +18,10 @@
 * Grav  基于点的可配置动画
 源码地址：[Grav](https://github.com/glomadrian/Grav) 文档：[doc](https://github.com/glomadrian/Grav/blob/master/README.md)
 
+* OffsetAnimator  手指运动动画
+源码地址：[OffsetAnimator](https://github.com/russelarms/OffsetAnimator) 文档：[doc](https://github.com/russelarms/OffsetAnimator/blob/master/README.md)
+ 
+
 
 
 

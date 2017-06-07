@@ -11,3 +11,6 @@
 
 * facebook/buck 鼓励通过各种平台和语言创建小型，可重复使用的模块的快速构建系统。 
 源码地址：[facebook/buck](https://github.com/facebook/buck) 文档：[doc](https://github.com/facebook/buck/blob/master/README.md)
+
+* ResourceInspector 调试当前活动所使用的布局文件的调试工具 
+源码地址：[ResourceInspector](https://github.com/nekocode/ResourceInspector) 文档：[doc](https://github.com/nekocode/ResourceInspector/blob/master/README.md)
