@@ -14,3 +14,6 @@
 
 * MusicWave  随着MusicWave在梯度彩色可视化代表你的声音
 源码地址：[MusicWave](https://github.com/akshay2211/MusicWave) 文档：[doc](https://github.com/akshay2211/MusicWave/blob/master/README.md)
+
+* MusicIndicator  Android音乐指示器。使用方便。
+源码地址：[MusicWave](https://github.com/Taishi-Y/MusicIndicator) 文档：[doc](https://github.com/Taishi-Y/MusicIndicator/blob/master/README.md)
