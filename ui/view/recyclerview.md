@@ -12,4 +12,8 @@
 * SlimAdapter recyclerview适配器的新写法
 源码地址：[SlimAdapter](https://github.com/MEiDIK/SlimAdapter) 文档：[doc](https://github.com/MEiDIK/SlimAdapter/blob/master/README.md)
 
+* AutoAdapter recyclerview适配器的新写法
+源码地址：[SlimAdapter](https://github.com/MEiDIK/SlimAdapter) 文档：[doc](https://github.com/MEiDIK/SlimAdapter/blob/master/README.md)
 
+* AutoAdapter 注解自创建recyclerview适配器Adapter
+源码地址：[AutoAdapter](https://github.com/mnayef95/AutoAdapter) 文档：[doc](https://github.com/mnayef95/AutoAdapter/blob/master/README.md)
