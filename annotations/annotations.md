@@ -5,3 +5,5 @@
 
 * ButterKnifeLite View binding library(butterknife的浓缩版，但运用了反射)
 源码地址：[ButterKnifeLite](https://github.com/janishar/ButterKnifeLite) 文档：[doc](https://github.com/janishar/ButterKnifeLite/blob/master/README.md)
+
+* [用于生成kt,可配合注解](https://github.com/square/kotlinpoet)

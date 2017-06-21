@@ -17,3 +17,6 @@
 
 * AutoAdapter 注解自创建recyclerview适配器Adapter
 源码地址：[AutoAdapter](https://github.com/mnayef95/AutoAdapter) 文档：[doc](https://github.com/mnayef95/AutoAdapter/blob/master/README.md)
+
+* MultiViewAdapter recyclerview适配器库来创建组合的观点的持有者
+源码地址：[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) 文档：[doc](https://github.com/DevAhamed/MultiViewAdapter/blob/master/README.md)

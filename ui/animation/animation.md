@@ -21,7 +21,9 @@
 * OffsetAnimator  手指运动动画
 源码地址：[OffsetAnimator](https://github.com/russelarms/OffsetAnimator) 文档：[doc](https://github.com/russelarms/OffsetAnimator/blob/master/README.md)
  
-
+* Fun 一个为Android提供扩展和折叠视图的库。（放大缩小）
+源码地址：[Fun](https://github.com/PHELAT/Fun) 文档：[doc](https://github.com/PHELAT/Fun/blob/master/README.md)
+ 
 
 
 
