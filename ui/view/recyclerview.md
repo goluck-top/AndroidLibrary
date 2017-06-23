@@ -20,3 +20,15 @@
 
 * MultiViewAdapter recyclerview适配器库来创建组合的观点的持有者
 源码地址：[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) 文档：[doc](https://github.com/DevAhamed/MultiViewAdapter/blob/master/README.md)
+	* 可以将多个数据集添加到适配器。
+	* 为不同的ItemBinders添加不同的ItemDecoration。
+	* 提供单一和多个选择选项。
+	* 开箱即用的DiffUtil支持。
+	* 每个活页夹的自定义范围计数。
+	* 数据绑定支持。
+	* 高级拖放支持。
+	* 滑动关闭。
+	* 无限滚动。
+	* 上下文动作模式的助手类。
+	* 项目可以展开/折叠。
+群组可以展开/折叠。
