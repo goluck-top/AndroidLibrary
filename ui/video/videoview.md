@@ -8,3 +8,6 @@
 
 * digital_video_introduction 具体介绍视频技术：图像，视频，编解码（AV1、H264、H265）和（FFMPEG编码）。
 源码地址：[digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 文档：[doc](https://github.com/leandromoreira/digital_video_introduction/blob/master/README.md)
+
+* ExoPlayerFilter 该库使用OpenGL着色器在运行时对ExoPlayer视频应用效果
+源码地址：[ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter) 文档：[doc](https://github.com/MasayukiSuda/ExoPlayerFilter/blob/master/README.md)
