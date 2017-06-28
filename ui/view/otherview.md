@@ -21,4 +21,8 @@
 * cardslider-android Cardslider是一个控制器，允许您通过图片和随附的描述刷卡。
 源码地址：[cardslider-android](https://github.com/Ramotion/cardslider-android) 文档：[doc](https://github.com/Ramotion/cardslider-android/blob/master/README.md)
 
+* XhsEmoticonsKeyboard 显示表情输入框
+源码地址：[XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 文档：[doc](https://github.com/w446108264/XhsEmoticonsKeyboard/blob/master/README.md)
+ 
+
 
