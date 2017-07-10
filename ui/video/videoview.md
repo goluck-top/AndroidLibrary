@@ -11,3 +11,7 @@
 
 * ExoPlayerFilter 该库使用OpenGL着色器在运行时对ExoPlayer视频应用效果
 源码地址：[ExoPlayerFilter](https://github.com/MasayukiSuda/ExoPlayerFilter) 文档：[doc](https://github.com/MasayukiSuda/ExoPlayerFilter/blob/master/README.md)
+
+* small-video-record 利用FFmpeg视频录制微信小视频与其压缩处理
+源码地址：[small-video-record](https://github.com/mabeijianxi/small-video-record) 文档：[doc](https://github.com/mabeijianxi/small-video-record/blob/master/README.md)
+
