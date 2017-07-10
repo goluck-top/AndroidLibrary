@@ -13,3 +13,6 @@
 * BlockCanaryEx 记录主线程中执行的所有方法和它们的执行时间 当应用程序阻塞时，使性能瓶颈检测容易
 源码地址：[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) 文档：[doc](https://github.com/seiginonakama/BlockCanaryEx/blob/master/README_ZH.md)
 
+* insights.py Appetizer 质量监控的 Python 客户端
+源码地址：[insights.py](https://github.com/appetizerio/insights.py) 文档：[doc](https://github.com/appetizerio/insights.py/blob/master/README_ZH.md)
+
