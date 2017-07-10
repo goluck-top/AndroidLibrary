@@ -15,4 +15,4 @@
 
 * insights.py Appetizer 质量监控的 Python 客户端
 源码地址：[insights.py](https://github.com/appetizerio/insights.py) 文档：[doc](https://github.com/appetizerio/insights.py/blob/master/README_ZH.md)
-
+[示例介绍1](https://testerhome.com/topics/8174) [示例介绍2](https://zhuanlan.zhihu.com/p/27734223?group_id=866332935404556288)
