@@ -11,3 +11,8 @@
 
 *	StatefulLayout Android布局显示模板加载，空，错误等状态。
 源码地址：[StatefulLayout](https://github.com/gturedi/StatefulLayout) 文档：[doc](https://github.com/gturedi/StatefulLayout/blob/master/READEME_CN.md)
+
+*	TranslucentBar 该库提供了半透明系统UI样式和状态栏的色彩的简单方法。它可以在API 19（KitKat 4.4）以上工作。
+源码地址：[TranslucentBar](https://github.com/Kelin-Hong/TranslucentBar) 文档：[doc](https://github.com/Kelin-Hong/TranslucentBar/blob/master/READEME_CN.md)
+
+

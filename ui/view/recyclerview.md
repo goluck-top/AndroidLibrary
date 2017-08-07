@@ -32,3 +32,7 @@
 	* 上下文动作模式的助手类。
 	* 项目可以展开/折叠。
 群组可以展开/折叠。
+
+* FeaturedRecyclerView FeaturedRecyclerView是通过扩展ReyclerView制作的自定义ViewGroup。名称建议FeaturedRecyclerView，它的第一个项目是顶部（通过将其高度设置为featuredItemHeight）。
+源码地址：[FeaturedRecyclerView](https://github.com/developer-shivam/FeaturedRecyclerView) 文档：[doc](https://github.com/developer-shivam/FeaturedRecyclerView/blob/master/README.md)
+
