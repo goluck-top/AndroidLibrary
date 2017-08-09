@@ -5,3 +5,8 @@
 
 * TaobaoADDemo 淘宝后台恢复闪屏广告实现
 源码地址：[TaobaoADDemo](https://github.com/lixplor/TaobaoADDemo) 文档：[doc](https://github.com/lixplor/TaobaoADDemo/blob/master/README.md)
+
+* Android-SplashView 闪屏页或者广告页 (SplashView) 
+源码地址：[Android-SplashView](https://github.com/jkyeo/Android-SplashView) 文档：[doc](https://github.com/jkyeo/Android-SplashView/blob/master/README.md)
+
+
