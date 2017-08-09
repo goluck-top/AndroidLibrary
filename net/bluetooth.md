@@ -8,3 +8,6 @@
 
 * 一个图书馆，可轻松实现Android上的串行蓝牙常规和低能耗。
 源码地址：[AndroidBluetoothLibrary](https://github.com/douglasjunior/AndroidBluetoothLibrary)
+
+* 提供一个服务器和客户端示例，用于理解Android上的蓝牙低能耗
+源码地址：[android-bluetooth-testbed](https://github.com/bignerdranch/android-bluetooth-testbed)
