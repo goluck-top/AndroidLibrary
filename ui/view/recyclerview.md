@@ -36,3 +36,5 @@
 * FeaturedRecyclerView FeaturedRecyclerView是通过扩展ReyclerView制作的自定义ViewGroup。名称建议FeaturedRecyclerView，它的第一个项目是顶部（通过将其高度设置为featuredItemHeight）。
 源码地址：[FeaturedRecyclerView](https://github.com/developer-shivam/FeaturedRecyclerView) 文档：[doc](https://github.com/developer-shivam/FeaturedRecyclerView/blob/master/README.md)
 
+* SuspensionBar 支持悬浮分组
+源码地址：[SuspensionBar](https://github.com/wuapnjie/SuspensionBar) 文档：[doc](https://github.com/wuapnjie/SuspensionBar/blob/master/README.md)
