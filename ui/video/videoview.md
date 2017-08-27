@@ -17,3 +17,6 @@
 
 *  PLDroidShortVideo 七牛推出的一款适用于 Android 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、本地/云端存储在内的多种功能，支持高度定制以及二次开发。
 源码地址：[PLDroidShortVideo](https://github.com/pili-engineering/PLDroidShortVideo) 文档：[doc](https://github.com/pili-engineering/PLDroidShortVideo/blob/master/README.md)
+
+* 基于 ijkplayer 的 UI 封装
+源码地址：[IjkPlayer](https://github.com/LinXiaoTao/IjkPlayer) 文档：[doc](https://github.com/LinXiaoTao/IjkPlayer/blob/master/README.md)
