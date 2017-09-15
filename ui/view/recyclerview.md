@@ -18,6 +18,9 @@
 * AutoAdapter 注解自创建recyclerview适配器Adapter
 源码地址：[AutoAdapter](https://github.com/mnayef95/AutoAdapter) 文档：[doc](https://github.com/mnayef95/AutoAdapter/blob/master/README.md)
 
+* recyclerview-animators 一个Android动画库，方便地添加到项目itemanimator recyclerview。
+源码地址：[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) 文档：[doc](https://github.com/wasabeef/recyclerview-animators/blob/master/README.md)
+
 * MultiViewAdapter recyclerview适配器库来创建组合的观点的持有者
 源码地址：[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) 文档：[doc](https://github.com/DevAhamed/MultiViewAdapter/blob/master/README.md)
 	* 可以将多个数据集添加到适配器。
