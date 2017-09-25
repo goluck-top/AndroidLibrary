@@ -14,3 +14,6 @@
 
 * RotatingText 周期性文本更新库 上下滚动View
 源码地址：[RotatingText](https://github.com/sdsmdg/RotatingText) 文档：[doc](https://github.com/sdsmdg/RotatingText/blob/master/README.md)
+
+* MRichEditor 富文本编辑器
+源码地址：[MRichEditor](https://github.com/Even201314/MRichEditor) 文档：[doc](https://github.com/Even201314/MRichEditor/blob/master/README.md)

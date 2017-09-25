@@ -12,11 +12,14 @@
 * SlimAdapter recyclerview适配器的新写法
 源码地址：[SlimAdapter](https://github.com/MEiDIK/SlimAdapter) 文档：[doc](https://github.com/MEiDIK/SlimAdapter/blob/master/README.md)
 
-* AutoAdapter recyclerview适配器的新写法
-源码地址：[SlimAdapter](https://github.com/MEiDIK/SlimAdapter) 文档：[doc](https://github.com/MEiDIK/SlimAdapter/blob/master/README.md)
+* FlexibleAdapter 这将为recyclerview几个功能到一个库，大大提高用户体验，快速和灵活的适配器：-）
+源码地址：[SlimAdapter](https://github.com/davideas/FlexibleAdapter) 文档：[doc](https://github.com/davideas/FlexibleAdapter/blob/master/README.md)
 
 * AutoAdapter 注解自创建recyclerview适配器Adapter
 源码地址：[AutoAdapter](https://github.com/mnayef95/AutoAdapter) 文档：[doc](https://github.com/mnayef95/AutoAdapter/blob/master/README.md)
+
+* recyclerview-animators 一个Android动画库，方便地添加到项目itemanimator recyclerview。
+源码地址：[recyclerview-animators](https://github.com/wasabeef/recyclerview-animators) 文档：[doc](https://github.com/wasabeef/recyclerview-animators/blob/master/README.md)
 
 * MultiViewAdapter recyclerview适配器库来创建组合的观点的持有者
 源码地址：[MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) 文档：[doc](https://github.com/DevAhamed/MultiViewAdapter/blob/master/README.md)
@@ -36,3 +39,8 @@
 * FeaturedRecyclerView FeaturedRecyclerView是通过扩展ReyclerView制作的自定义ViewGroup。名称建议FeaturedRecyclerView，它的第一个项目是顶部（通过将其高度设置为featuredItemHeight）。
 源码地址：[FeaturedRecyclerView](https://github.com/developer-shivam/FeaturedRecyclerView) 文档：[doc](https://github.com/developer-shivam/FeaturedRecyclerView/blob/master/README.md)
 
+* SuspensionBar 支持悬浮分组
+源码地址：[SuspensionBar](https://github.com/wuapnjie/SuspensionBar) 文档：[doc](https://github.com/wuapnjie/SuspensionBar/blob/master/README.md)
+
+* VegaLayoutManager 一个定制的布局管理器的褪色和缩头itemview滚动时。
+源码地址：[VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) 文档：[doc](https://github.com/xmuSistone/VegaLayoutManager/blob/master/README.md)
