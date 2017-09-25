@@ -41,3 +41,6 @@
 
 * SuspensionBar 支持悬浮分组
 源码地址：[SuspensionBar](https://github.com/wuapnjie/SuspensionBar) 文档：[doc](https://github.com/wuapnjie/SuspensionBar/blob/master/README.md)
+
+* VegaLayoutManager 一个定制的布局管理器的褪色和缩头itemview滚动时。
+源码地址：[VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) 文档：[doc](https://github.com/xmuSistone/VegaLayoutManager/blob/master/README.md)
