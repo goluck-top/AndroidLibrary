@@ -17,3 +17,5 @@
 
 * MRichEditor 富文本编辑器
 源码地址：[MRichEditor](https://github.com/Even201314/MRichEditor) 文档：[doc](https://github.com/Even201314/MRichEditor/blob/master/README.md)
+
+* [HtmlText](https://github.com/wangchenyan/HtmlText)

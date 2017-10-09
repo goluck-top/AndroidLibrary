@@ -24,5 +24,5 @@
 * XhsEmoticonsKeyboard 显示表情输入框
 源码地址：[XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) 文档：[doc](https://github.com/w446108264/XhsEmoticonsKeyboard/blob/master/README.md)
  
-
-
+* rclayout Android通用圆角布局。
+源码地址：[rclayout](https://github.com/GcsSloop/rclayout) 文档：[doc](https://github.com/GcsSloop/rclayout/blob/master/README.md)
