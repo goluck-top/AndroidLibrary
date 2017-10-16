@@ -10,4 +10,7 @@
 源码地址：[Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) 文档：[doc](https://github.com/Fotoapparat/Fotoapparat/blob/master/README.md)
 
 
+* Album Android MaterialDesign-style albums, gallery.支持多选、广播、摄像头支持，支持预览图片的选择，预览是否可以配置反选举。
+源码地址：[Album](https://github.com/yanzhenjie/Album) 文档：[doc](https://github.com/yanzhenjie/Album/blob/master/README.md)
+
 
