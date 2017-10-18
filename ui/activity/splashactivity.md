@@ -19,3 +19,6 @@
 
 * GuideView 最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
 源码地址：[GuideView](https://github.com/binIoter/GuideView) 文档：[doc](https://github.com/binIoter/GuideView/blob/master/README.md)
+
+* WelcomeVideoPager Android酷炫欢迎页播放视频,仿蚂蜂窝自由行和慕课网 
+源码地址：[WelcomeVideoPager](https://github.com/linglongxin24/WelcomeVideoPager) 文档：[doc](https://github.com/linglongxin24/WelcomeVideoPager/blob/master/README.md)
