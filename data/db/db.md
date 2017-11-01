@@ -24,3 +24,4 @@
 
 # SQLite教程
 * [SQLite教程](http://www.runoob.com/sqlite/sqlite-tutorial.html)
+* [sqlite官网](https://www.sqlite.org)
