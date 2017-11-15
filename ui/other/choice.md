@@ -3,6 +3,9 @@
 * Matisse 适合Android设计的本地图片和视频选择器
 源码地址：[Matisse](https://github.com/zhihu/Matisse) 文档：[doc](https://github.com/zhihu/Matisse/blob/master/README.md)
 
+* MultiType-FilePicker 这是一个轻量级的Android文件选取器库。
+源码地址：[MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) 文档：[doc](https://github.com/fishwjy/MultiType-FilePicker/blob/master/README.md)
+
 * transferee 一个帮助您完成从缩略图到原图无缝过渡转变的神奇组件
 源码地址：[transferee](https://github.com/Hitomis/transferee) 文档：[doc](https://github.com/Hitomis/transferee/blob/master/README.md)
 

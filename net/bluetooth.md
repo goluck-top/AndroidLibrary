@@ -11,3 +11,7 @@
 
 * 提供一个服务器和客户端示例，用于理解Android上的蓝牙低能耗
 源码地址：[android-bluetooth-testbed](https://github.com/bignerdranch/android-bluetooth-testbed)
+
+* 基于Android Classic Bluetooth的蓝牙聊天软件，目前仅支持一对一实时通信、文件传输、好友添加、好友分组、好友在线状态更新等功能，其中消息发送支持文本、表情等方式。
+源码地址：[BluetoothChat](https://github.com/xiaoyaoyou1212/BluetoothChat)
+
