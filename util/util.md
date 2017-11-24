@@ -12,3 +12,8 @@
 * RxTools Android开发人员不得不收集的工具类集合
 源码地址：[RxTools](https://github.com/vondear/RxTools) 文档：[doc](https://github.com/vondear/RxTools/blob/master/README.md)
 
+* PRDownloader 一个文件下载库支持Android的暂停和恢复
+源码地址：[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) 文档：[doc](https://github.com/MindorksOpenSource/PRDownloader/blob/master/README.md)
+
+
+
