@@ -15,5 +15,8 @@
 * PRDownloader 一个文件下载库支持Android的暂停和恢复
 源码地址：[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader) 文档：[doc](https://github.com/MindorksOpenSource/PRDownloader/blob/master/README.md)
 
+* PermissionsDispatcher 运行时权限，各种状态处理封装库
+源码地址：[PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) 文档：[doc](https://github.com/permissions-dispatcher/PermissionsDispatcher/blob/master/README.md)
+
 
 
