@@ -24,3 +24,5 @@
 * SmarterStreaming 大牛直播，跨平台(windows/android/iOS)推送(rtmp)、播放器(rtmp/rtsp)，支持录像、导播、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(1秒左右)。 http://www.daniulive.com
 源码地址：[SmarterStreaming](https://github.com/daniulive/SmarterStreaming) 文档：[doc](https://github.com/daniulive/SmarterStreaming/blob/master/README.md)
 
+* GSYVideoPlayer 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg
+ 源码地址：[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) 文档：[doc](https://github.com/CarGuo/GSYVideoPlayer/blob/master/README.md)
