@@ -5,3 +5,6 @@
 
 * MaterialViewPager Material Design设计的易于使用的ViewPager
 源码地址：[MaterialViewPager](https://github.com/florent37/MaterialViewPager) 文档：[doc](https://github.com/florent37/MaterialViewPager/blob/master/README.md)
+
+* CoolViewPager 一个很酷的:viewpage (支持横向和纵向)
+源码地址：[CoolViewPager](https://github.com/HuanHaiLiuXin/CoolViewPager)
