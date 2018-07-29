@@ -10,3 +10,5 @@
 源码地址：[LifecycleModel](https://github.com/JessYanCoding/LifecycleModel) 文档：[doc](https://github.com/JessYanCoding/LifecycleModel/blob/master/README.md)
 
 
+* LiveDataBus 订阅者可以订阅某个消息通道的消息，发布者可以把消息发布到消息通道上。利用LiveDataBus，不仅可以实现消息总线功能，而且对于订阅者，他们不需要关心何时取消订阅，极大减少了因为忘记取消订阅造成的内存泄漏风险。
+源码地址：[LiveDataBus](https://github.com/JeremyLiao/LiveDataBus)
