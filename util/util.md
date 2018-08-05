@@ -21,6 +21,3 @@
 
 * PermissionsDispatcher 运行时权限，各种状态处理封装库
 源码地址：[PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) 文档：[doc](https://github.com/permissions-dispatcher/PermissionsDispatcher/blob/master/README.md)
-
-* UltimateAndroidReference 🚀 终极Android参考 - 成为更好的Android开发者的道路
-源码地址：[UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference)
