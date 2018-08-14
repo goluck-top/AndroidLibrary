@@ -21,6 +21,3 @@
 
 * PermissionsDispatcher 运行时权限，各种状态处理封装库
 源码地址：[PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) 文档：[doc](https://github.com/permissions-dispatcher/PermissionsDispatcher/blob/master/README.md)
-
-
-
