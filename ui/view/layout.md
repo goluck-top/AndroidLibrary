@@ -1,10 +1,13 @@
-# android LayoutÏà¹ØµÄÓÅĞãµÚÈı·½ÒÀÀµ°ü
+# android Layoutç›¸å…³çš„ä¼˜ç§€ç¬¬ä¸‰æ–¹ä¾èµ–åŒ…
 
-* CoordinatorTabLayout Ïà½áºÏµÄÕÛµş¿Ø¼ş 
-Ô´ÂëµØÖ·£º[CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout) ÎÄµµ£º[doc](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/README.md)
+* CoordinatorTabLayout ç›¸ç»“åˆçš„æŠ˜å æ§ä»¶ 
+æºç åœ°å€ï¼š[CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout) æ–‡æ¡£ï¼š[doc](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/README.md)
 
-* android-pile-layout Òì³£µÄË®Æ½ListViewÏñÀ­ÉìºÍÊÕËõµÄÓ°Ïì×®µÄ²¼ÖÃ¡£
-Ô´ÂëµØÖ·£º[android-pile-layout](https://github.com/xmuSistone/android-pile-layout) ÎÄµµ£º[doc](https://github.com/xmuSistone/android-pile-layout/blob/master/README.md)
+* android-pile-layout å¼‚å¸¸çš„æ°´å¹³ListViewåƒæ‹‰ä¼¸å’Œæ”¶ç¼©çš„å½±å“æ¡©çš„å¸ƒç½®ã€‚
+æºç åœ°å€ï¼š[android-pile-layout](https://github.com/xmuSistone/android-pile-layout) æ–‡æ¡£ï¼š[doc](https://github.com/xmuSistone/android-pile-layout/blob/master/README.md)
  
+* VerticalTabLayout å‚ç›´çºµå‘çš„TabLayou
+æºç åœ°å€[VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
+
 
 
