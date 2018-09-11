@@ -26,3 +26,6 @@
  
 * rclayout Android通用圆角布局。
 源码地址：[rclayout](https://github.com/GcsSloop/rclayout) 文档：[doc](https://github.com/GcsSloop/rclayout/blob/master/README.md)
+
+* GiftSurfaceView 直播间礼物
+源码地址：[GiftSurfaceView](https://github.com/jenly1314/GiftSurfaceView) 文档：[doc](https://github.com/jenly1314/GiftSurfaceView/blob/master/README.md)
