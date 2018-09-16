@@ -9,4 +9,5 @@
 *	SubmitButton 带有进度动画的Android自定义提交按钮.
 源码地址：[SubmitButton](https://github.com/Someonewow/SubmitButton) 文档：[doc](https://github.com/Someonewow/SubmitButton/blob/master/README-zh.md)
 
-
+* 通过标签直接生成shape，无需再写shape.xml
+源码地址：[BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary)
