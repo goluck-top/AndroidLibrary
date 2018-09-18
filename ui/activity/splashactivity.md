@@ -22,3 +22,8 @@
 
 * WelcomeVideoPager Android酷炫欢迎页播放视频,仿蚂蜂窝自由行和慕课网 
 源码地址：[WelcomeVideoPager](https://github.com/linglongxin24/WelcomeVideoPager) 文档：[doc](https://github.com/linglongxin24/WelcomeVideoPager/blob/master/README.md)
+
+## 滑动返回
+
+* SwipeBackLayout 一个通过手势滑动关闭Activity的库
+源码地址：[SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout) 文档：[doc](https://github.com/gongwen/SwipeBackLayout/blob/master/README-CN.md)
