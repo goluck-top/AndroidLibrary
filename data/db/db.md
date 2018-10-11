@@ -21,7 +21,10 @@
 * Android-NoSql 重量轻，结构简单的NoSQL数据库为Android
 源码地址：[Android-NoSql](https://github.com/florent37/Android-NoSql) 文档：[doc](https://github.com/florent37/Android-NoSql/blob/master/README.md)
 
+* Android-Debug-Database 用于调试android数据库和共享首选项的库 - 使调试再次变得更好
+源码地址：[Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
 
 # SQLite教程
 * [SQLite教程](http://www.runoob.com/sqlite/sqlite-tutorial.html)
 * [sqlite官网](https://www.sqlite.org)
+
