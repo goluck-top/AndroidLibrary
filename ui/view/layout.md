@@ -12,6 +12,7 @@
 * ExpandableLayout 可折叠的LinearLayout
 源码地址[VerticalTabLayout](https://github.com/iammert/ExpandableLayout)
 
-
+* SwipeBackLayout SwipeBack是一个可以使用手势完成活动的android库。
+源码地址[SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout)
 
 
