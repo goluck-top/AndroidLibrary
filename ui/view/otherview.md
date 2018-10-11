@@ -29,3 +29,6 @@
 
 * GiftSurfaceView 直播间礼物
 源码地址：[GiftSurfaceView](https://github.com/jenly1314/GiftSurfaceView) 文档：[doc](https://github.com/jenly1314/GiftSurfaceView/blob/master/README.md)
+
+* CoCoin，多视图会计应用
+源码地址：[CoCoin](https://github.com/Nightonke/CoCoin)文档：[doc](https://github.com/Nightonke/CoCoin/blob/master/README.md)
