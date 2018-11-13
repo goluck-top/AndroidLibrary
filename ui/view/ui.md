@@ -8,3 +8,6 @@
 
 * Awesome-MaterialDesign  材料设计库的集合
 源码地址：[Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+
+* MarqueeView 上下左右滚动跑马灯
+源码地址：[MarqueeView](https://github.com/sunfusheng/MarqueeView)
