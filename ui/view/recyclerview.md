@@ -44,3 +44,6 @@
 
 * VegaLayoutManager 一个定制的布局管理器的褪色和缩头itemview滚动时。
 源码地址：[VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) 文档：[doc](https://github.com/xmuSistone/VegaLayoutManager/blob/master/README.md)
+
+* 支持悬浮分组
+源码地址：[KM-Recyclerview-Sticky-Header](https://github.com/smhdk/KM-Recyclerview-Sticky-Header)
