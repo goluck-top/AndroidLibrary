@@ -47,3 +47,6 @@
 
 * 支持悬浮分组
 源码地址：[KM-Recyclerview-Sticky-Header](https://github.com/smhdk/KM-Recyclerview-Sticky-Header)
+
+* RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果
+源码地址：[PathLayoutManager](https://github.com/wuyr/PathLayoutManager)
