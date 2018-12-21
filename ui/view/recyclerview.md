@@ -50,3 +50,6 @@
 
 * RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果
 源码地址：[PathLayoutManager](https://github.com/wuyr/PathLayoutManager)
+
+* MultiSnapRecyclerView  这是一个用于多次捕捉RecyclerView的Android库。MultiSnapRecyclerView可轻松为RecyclerView提供捕捉功能。
+源码地址： [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)
