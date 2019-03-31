@@ -44,3 +44,12 @@
 
 * VegaLayoutManager 一个定制的布局管理器的褪色和缩头itemview滚动时。
 源码地址：[VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) 文档：[doc](https://github.com/xmuSistone/VegaLayoutManager/blob/master/README.md)
+
+* 支持悬浮分组
+源码地址：[KM-Recyclerview-Sticky-Header](https://github.com/smhdk/KM-Recyclerview-Sticky-Header)
+
+* RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果
+源码地址：[PathLayoutManager](https://github.com/wuyr/PathLayoutManager)
+
+* MultiSnapRecyclerView  这是一个用于多次捕捉RecyclerView的Android库。MultiSnapRecyclerView可轻松为RecyclerView提供捕捉功能。
+源码地址： [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)

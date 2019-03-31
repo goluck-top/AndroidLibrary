@@ -17,3 +17,6 @@
 
 * ResourceInspector 调试当前活动所使用的布局文件的调试工具 
 源码地址：[ResourceInspector](https://github.com/nekocode/ResourceInspector) 文档：[doc](https://github.com/nekocode/ResourceInspector/blob/master/README.md)
+
+* 360开源又一力作——ArgusAPM移动性能监控平台
+源码地址：[ArgusAPM](https://github.com/Qihoo360/ArgusAPM）

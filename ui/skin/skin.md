@@ -9,3 +9,5 @@
 * aesthetic 一种快速便捷的即插即用动态主题引擎。由Rx支持，适用于Android应用。
 源码地址：[aesthetic](https://github.com/afollestad/aesthetic) 文档：[doc](https://github.com/afollestad/aesthetic/blob/master/README.md)
 
+* 为Android应用设置主题，而不用重新运行Activity，例如可以无闪屏的切换日间、夜间模式
+源码地址:[ChangeThemeForAndoird](https://github.com/zhangzhun132/ChangeThemeForAndoird)文档：[doc](https://github.com/zhangzhun132/ChangeThemeForAndoird/blob/master/README.md)

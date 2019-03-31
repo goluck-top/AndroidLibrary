@@ -1,3 +1,5 @@
+
+
 # android 其他自定义View相关的优秀第三方依赖包
 
 * MarkdownView Android库显示Markdown文本。
@@ -32,3 +34,11 @@
 
 * ExtendedCalendarView 日历相关
 源码地址：[ExtendedCalendarView](https://github.com/tyczj/ExtendedCalendarView)
+
+
+* CoCoin，多视图会计应用
+源码地址：[CoCoin](https://github.com/Nightonke/CoCoin)文档：[doc](https://github.com/Nightonke/CoCoin/blob/master/README.md)
+
+* garland-view-android GarlandView可在多个内容列表之间无缝切换
+源码地址：[garland-view-android](https://github.com/Ramotion/garland-view-android)
+

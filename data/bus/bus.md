@@ -18,6 +18,4 @@
   * 支持设置LifecycleObserver（如Activity）接收消息的模式：
   * 整个生命周期（从onCreate到onDestroy）都可以实时收到消息
   * 激活状态（Started）可以实时收到消息，非激活状态（Stoped）无法实时收到消息，需等到Activity重新变成激活状态，方可收到消息
-  
-  
 源码地址：[LiveEventBus](https://github.com/JeremyLiao/LiveEventBus)

@@ -21,3 +21,9 @@
 
 * PermissionsDispatcher 运行时权限，各种状态处理封装库
 源码地址：[PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) 文档：[doc](https://github.com/permissions-dispatcher/PermissionsDispatcher/blob/master/README.md)
+
+* PermissionLiveData Android运行时权限为LiveData
+源码地址:[PermissionLiveData](https://github.com/emreeran/PermissionLiveData)
+
+* FingerprintIdentify android指纹兼容库
+源码地址：[FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify/blob/master/other/README_ZH.md)
