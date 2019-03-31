@@ -38,3 +38,6 @@
 源码地址：[Music163GuideDemo](https://github.com/wobiancao/Music163GuideDemo)
 
 * 源码地址：[AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) 文档：[doc](https://github.com/JohnTsaiAndroid/AndroidTips/blob/master/README.md)地址
+
+* MarqueeView 跑马灯
+源码地址：[MarqueeView](https://github.com/385841539/MarqueeView)
