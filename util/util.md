@@ -31,6 +31,10 @@
 * android-security-awesome 安全相关
 源码地址：[android-security-awesome](https://github.com/ashishb/android-security-awesome)
 
-
 * Android-BitmapCache bitmap缓存相关
 源码地址：[Android-BitmapCache](https://github.com/chrisbanes/Android-BitmapCache)
+
+* Music163GuideDemo 引导
+源码地址：[Music163GuideDemo](https://github.com/wobiancao/Music163GuideDemo)
+
+* 源码地址：[AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) 文档：[doc](https://github.com/JohnTsaiAndroid/AndroidTips/blob/master/README.md)地址
