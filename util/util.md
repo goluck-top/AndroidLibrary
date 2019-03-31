@@ -41,3 +41,6 @@
 
 * MarqueeView 跑马灯
 源码地址：[MarqueeView](https://github.com/385841539/MarqueeView)
+
+* android-switch-env 环境切换
+源码地址：[android-switch-env](https://github.com/Trinea/android-switch-env)
