@@ -19,3 +19,6 @@
 源码地址：[MRichEditor](https://github.com/Even201314/MRichEditor) 文档：[doc](https://github.com/Even201314/MRichEditor/blob/master/README.md)
 
 * [HtmlText](https://github.com/wangchenyan/HtmlText)
+
+* MarqueeView 跑马灯
+源码地址：[MarqueeView](https://github.com/385841539/MarqueeView)

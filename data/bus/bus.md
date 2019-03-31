@@ -9,6 +9,13 @@
 * LifecycleModel LifecycleModel类用于以有意义的生命周期方式存储和管理与UI相关的数据，LifecycleModel类允许数据在屏幕旋转等配置变化后存活，还处理Activity / Fragment与其他应用程序的通信
 源码地址：[LifecycleModel](https://github.com/JessYanCoding/LifecycleModel) 文档：[doc](https://github.com/JessYanCoding/LifecycleModel/blob/master/README.md)
 
-
-* LiveDataBus 订阅者可以订阅某个消息通道的消息，发布者可以把消息发布到消息通道上。利用LiveDataBus，不仅可以实现消息总线功能，而且对于订阅者，他们不需要关心何时取消订阅，极大减少了因为忘记取消订阅造成的内存泄漏风险。
-源码地址：[LiveDataBus](https://github.com/JeremyLiao/LiveDataBus)
+* LiveEventBus [EventBus for Android，消息总线]，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
+  *  生命周期感知，消息随时订阅，自动取消订阅
+  * 支持Sticky粘性消息
+  * 支持AndroidX
+  * 支持单APP跨进程通信
+  * 支持跨APP通信
+  * 支持设置LifecycleObserver（如Activity）接收消息的模式：
+  * 整个生命周期（从onCreate到onDestroy）都可以实时收到消息
+  * 激活状态（Started）可以实时收到消息，非激活状态（Stoped）无法实时收到消息，需等到Activity重新变成激活状态，方可收到消息
+源码地址：[LiveEventBus](https://github.com/JeremyLiao/LiveEventBus)
