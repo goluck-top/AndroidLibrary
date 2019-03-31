@@ -27,3 +27,6 @@
 
 * FingerprintIdentify android指纹兼容库
 源码地址：[FingerprintIdentify](https://github.com/uccmawei/FingerprintIdentify/blob/master/other/README_ZH.md)
+
+* android-security-awesome 安全相关
+源码地址：[android-security-awesome](https://github.com/ashishb/android-security-awesome)
