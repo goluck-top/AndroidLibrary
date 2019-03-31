@@ -15,3 +15,5 @@
 * TagViewGroup Android 仿小红书图片标签Group
 源码地址：[TagViewGroup](https://github.com/shellljx/TagViewGroup) 文档：[doc](https://github.com/shellljx/TagViewGroup/blob/master/READEME_CN.md)
  
+* ImageViewZoom 图片放缩
+源码地址：[ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom)
