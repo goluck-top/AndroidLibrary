@@ -30,3 +30,7 @@
 
 * android-security-awesome 安全相关
 源码地址：[android-security-awesome](https://github.com/ashishb/android-security-awesome)
+
+
+* Android-BitmapCache bitmap缓存相关
+源码地址：[Android-BitmapCache](https://github.com/chrisbanes/Android-BitmapCache)
