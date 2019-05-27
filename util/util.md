@@ -44,3 +44,6 @@
 
 * android-switch-env 环境切换
 源码地址：[android-switch-env](https://github.com/Trinea/android-switch-env)
+
+* RxPermissions 权限申请 rxjava方式请求
+源码地址：[RxPermissions](https://github.com/tbruyelle/RxPermissions)
