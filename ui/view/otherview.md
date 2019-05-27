@@ -42,3 +42,6 @@
 * garland-view-android GarlandView可在多个内容列表之间无缝切换
 源码地址：[garland-view-android](https://github.com/Ramotion/garland-view-android)
 
+* AndroidCharts android相关图表
+源码地址：[AndroidCharts](https://github.com/HackPlan/AndroidCharts)
+
