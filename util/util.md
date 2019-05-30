@@ -47,3 +47,10 @@
 
 * RxPermissions 权限申请 rxjava方式请求
 源码地址：[RxPermissions](https://github.com/tbruyelle/RxPermissions)
+
+* 图片压缩工具
+源码地址:
+![](https://github.com/Curzibn/Luban)
+![](https://github.com/zetbaitsu/Compressor)
+
+![相关链接](https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650827885&idx=1&sn=b40f9b8cbf78516e049c097b50344665&chksm=80b7b8f3b7c031e5a818919412c31182b1f09dd0ea71fc38d6a9e52afaca4e107228e14c4e23&scene=21#wechat_redirect)
