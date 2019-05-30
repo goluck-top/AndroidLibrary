@@ -45,3 +45,6 @@
 * AndroidCharts android相关图表
 源码地址：[AndroidCharts](https://github.com/HackPlan/AndroidCharts)
 
+* AppUpdater app更新提醒封装
+源码地址:[AppUpdater](https://github.com/javiersantos/AppUpdater)
+
