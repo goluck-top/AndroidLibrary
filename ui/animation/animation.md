@@ -30,6 +30,8 @@
 * transitioner 一个用于动态视图到视图转换的库
 源码地址：[transitioner](https://github.com/dev-labs-bg/transitioner) 文档：[doc](https://github.com/dev-labs-bg/transitioner/blob/master/README.md)
 
+* RichPath 💪丰富的Android路径。🤡画出你想要的。🎉尽可能多地制作动画。
+源码地址：[RichPath](https://github.com/tarek360/RichPath)
 
 
 
