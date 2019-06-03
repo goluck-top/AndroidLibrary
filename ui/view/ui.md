@@ -11,3 +11,6 @@
 
 * MarqueeView 上下左右滚动跑马灯
 源码地址：[MarqueeView](https://github.com/sunfusheng/MarqueeView)
+
+* Android-RoundCornerProgressBar 彩色进度栏与圆角进展，你可以自定义颜色和角半径。
+源码地址[Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
