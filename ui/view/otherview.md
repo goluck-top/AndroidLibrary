@@ -48,3 +48,6 @@
 * AppUpdater app更新提醒封装
 源码地址:[AppUpdater](https://github.com/javiersantos/AppUpdater)
 
+* Android上一个优雅、万能自定义UI、支持周视图、自定义周起始、性能高效的日历控件
+源码地址:[CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+
