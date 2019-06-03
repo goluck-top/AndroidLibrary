@@ -9,3 +9,5 @@
 * PrimWeb 是webview的一个代理库，比webview更方便灵活，同时支持切换腾讯 x5 webview
 源码地址:[PrimWeb](https://github.com/JakePrim/PrimWeb)
 
+* WebViewStudy WebView 全方面的使用，JS交互、进度条、发短信、打电话、发邮件、上传图片、字体设置、视频全屏播放、唤起原生App、被作为第三方浏览器打开、DeepLink、[腾讯x5使用示例]
+源码地址:[WebViewStudy](https://github.com/youlookwhat/WebViewStudy)
