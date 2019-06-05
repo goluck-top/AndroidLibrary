@@ -29,6 +29,9 @@
 * rclayout Android通用圆角布局。
 源码地址：[rclayout](https://github.com/GcsSloop/rclayout) 文档：[doc](https://github.com/GcsSloop/rclayout/blob/master/README.md)
 
+* SwitchButton SwitchButton.An美丽+轻量级+自定义风格 - 易于切换的Android小部件，minSdkVersion> = 11
+源码地址：[SwitchButton](https://github.com/zcweng/SwitchButton)
+
 * CalendarView d
 
 * GiftSurfaceView 直播间礼物
