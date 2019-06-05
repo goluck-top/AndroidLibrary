@@ -58,3 +58,6 @@
 
 * 自定义ListView与CalendarView相结合，相互交互。
 源码地址:[CalendarListView](https://github.com/Kelin-Hong/CalendarListView)
+
+* UIUtil UIUtil for Android, Lyrics, Tick animations, Comparisons, Satellite menus, Praise, Slide buttons, TAB indicators, Contact sorting, Drag sorting, Skidding deletes, Shadow effects, RecyclerView nesting RecyclerView, Map list Poi/Drawer effects, Progress settings, Clock set, Damping, Progress, Album, Snap, Progress, CircleDownload, AdvertSwitcher, …
+源码地址：[UIUtil](https://github.com/Dsiner/UIUtil)
