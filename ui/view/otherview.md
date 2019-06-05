@@ -61,3 +61,6 @@
 
 * UIUtil UIUtil for Android, Lyrics, Tick animations, Comparisons, Satellite menus, Praise, Slide buttons, TAB indicators, Contact sorting, Drag sorting, Skidding deletes, Shadow effects, RecyclerView nesting RecyclerView, Map list Poi/Drawer effects, Progress settings, Clock set, Damping, Progress, Album, Snap, Progress, CircleDownload, AdvertSwitcher, …
 源码地址：[UIUtil](https://github.com/Dsiner/UIUtil)
+
+* slideview 一个非常棒的Android滑动按钮库
+源码地址：[slideview](https://github.com/MAXDeliveryNG/slideview)
