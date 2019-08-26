@@ -29,6 +29,9 @@
 * rclayout Android通用圆角布局。
 源码地址：[rclayout](https://github.com/GcsSloop/rclayout) 文档：[doc](https://github.com/GcsSloop/rclayout/blob/master/README.md)
 
+* SwitchButton SwitchButton.An美丽+轻量级+自定义风格 - 易于切换的Android小部件，minSdkVersion> = 11
+源码地址：[SwitchButton](https://github.com/zcweng/SwitchButton)
+
 * CalendarView d
 
 * GiftSurfaceView 直播间礼物
@@ -58,3 +61,9 @@
 
 * 自定义ListView与CalendarView相结合，相互交互。
 源码地址:[CalendarListView](https://github.com/Kelin-Hong/CalendarListView)
+
+* UIUtil UIUtil for Android, Lyrics, Tick animations, Comparisons, Satellite menus, Praise, Slide buttons, TAB indicators, Contact sorting, Drag sorting, Skidding deletes, Shadow effects, RecyclerView nesting RecyclerView, Map list Poi/Drawer effects, Progress settings, Clock set, Damping, Progress, Album, Snap, Progress, CircleDownload, AdvertSwitcher, …
+源码地址：[UIUtil](https://github.com/Dsiner/UIUtil)
+
+* slideview 一个非常棒的Android滑动按钮库
+源码地址：[slideview](https://github.com/MAXDeliveryNG/slideview)
