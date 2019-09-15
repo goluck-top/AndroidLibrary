@@ -1,6 +1,10 @@
 # AndroidLibrary
 AndroidLibrarys
 
+
+#### 优秀资料收集库
+* [JavaKotlinAndroidGuide](https://github.com/leavesC/JavaKotlinAndroidGuide)
+
 #### android 开发规范
 * [https://github.com/ribot/android-guidelines](https://github.com/ribot/android-guidelines)
 
