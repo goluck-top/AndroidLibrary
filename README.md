@@ -1,6 +1,9 @@
 # AndroidLibrary
 AndroidLibrarys
 
+#### 开源库代码查阅
+* [https://p.codekk.com/](https://p.codekk.com/)
+* [http://alamkanak.github.io/android-libraries-and-resources/](http://alamkanak.github.io/android-libraries-and-resources/)
 
 #### 优秀资料收集库
 * [JavaKotlinAndroidGuide](https://github.com/leavesC/JavaKotlinAndroidGuide)
