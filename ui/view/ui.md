@@ -17,3 +17,6 @@
 
 * shimmer-android 一种向Android应用程序中的任何视图添加闪烁效果的简便灵活的方法
 源码地址[shimmer-android](https://github.com/facebook/shimmer-android)
+
+* ShadowHelper 一个为Android View添加阴影的库。（一个方便为Android View添加自然的阴影的库）
+源码地址[ShadowHelper](https://github.com/zhengcx/ShadowHelper)
