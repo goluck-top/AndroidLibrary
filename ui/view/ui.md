@@ -13,10 +13,13 @@
 源码地址：[MarqueeView](https://github.com/sunfusheng/MarqueeView)
 
 * Android-RoundCornerProgressBar 彩色进度栏与圆角进展，你可以自定义颜色和角半径。
-源码地址[Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
+源码地址:[Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar)
 
 * shimmer-android 一种向Android应用程序中的任何视图添加闪烁效果的简便灵活的方法
-源码地址[shimmer-android](https://github.com/facebook/shimmer-android)
+源码地址:[shimmer-android](https://github.com/facebook/shimmer-android)
 
 * ShadowHelper 一个为Android View添加阴影的库。（一个方便为Android View添加自然的阴影的库）
-源码地址[ShadowHelper](https://github.com/zhengcx/ShadowHelper)
+源码地址:[ShadowHelper](https://github.com/zhengcx/ShadowHelper)
+
+* ElasticView 弹性视图是常规的CardView，可以从用户的触摸中灵活显示
+源码地址:[ElasticView](https://github.com/armcha/ElasticView)
