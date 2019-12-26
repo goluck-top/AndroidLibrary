@@ -15,4 +15,5 @@
 * SwipeBackLayout SwipeBack是一个可以使用手势完成活动的android库。
 源码地址[SwipeBackLayout](https://github.com/gongwen/SwipeBackLayout)
 
-
+* ReadableBottomBar Android的另一个素材底栏库
+源码地址[ReadableBottomBar](https://github.com/iammert/ReadableBottomBar)

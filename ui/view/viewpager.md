@@ -8,3 +8,6 @@
 
 * CoolViewPager 一个很酷的:viewpage (支持横向和纵向)
 源码地址：[CoolViewPager](https://github.com/HuanHaiLiuXin/CoolViewPager)
+
+* creative-viewpager 该库结合了一个标题列表，该标题列表与页面内容一起自动滚动。
+源码地址：[creative-viewpager](https://github.com/tommybuonomo/creative-viewpager)
