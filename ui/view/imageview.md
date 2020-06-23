@@ -17,3 +17,6 @@
  
 * ImageViewZoom 图片放缩
 源码地址：[ImageViewZoom](https://github.com/sephiroth74/ImageViewZoom)
+
+* ImageViewZoom ImageView添加触摸功能
+源码地址：[TouchImageView](https://github.com/MikeOrtiz/TouchImageView)
