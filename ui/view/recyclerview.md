@@ -53,3 +53,7 @@
 
 * MultiSnapRecyclerView  这是一个用于多次捕捉RecyclerView的Android库。MultiSnapRecyclerView可轻松为RecyclerView提供捕捉功能。
 源码地址： [MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView)
+
+* SuperSLiM 用于RecyclerView的布局管理器，具有可互换的线性，网格和交错的视图显示，所有这些都具有可配置的部分标题，包括材料设计文档中指定的粘性品种
+源码地址： [SuperSLiM](https://github.com/TonicArtos/SuperSLiM)
+
