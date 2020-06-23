@@ -23,3 +23,6 @@
 
 * ElasticView 弹性视图是常规的CardView，可以从用户的触摸中灵活显示
 源码地址:[ElasticView](https://github.com/armcha/ElasticView)
+
+* dotsindicator Android中用于查看Three material UI重要的点指示器！
+源码地址:[dotsindicator](https://github.com/tommybuonomo/dotsindicator）
