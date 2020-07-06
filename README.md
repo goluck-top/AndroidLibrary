@@ -194,3 +194,6 @@ AndroidLibrarys
 **[Hyperion](https://github.com/willowtreeapps/Hyperion-Android)**|APP开发UI测试工具
 **[SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)**|UI测试工具
 **[DoraemonKit](https://github.com/didi/DoraemonKit)**|简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手
+
+## 笔记
+* https://github.com/Sogrey/Android_QA/issues
